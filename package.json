@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-nightwatchjs-cucumber-mobile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.8.0",
+    "@nightwatch/mobile-helper": "^0.1.14",
+    "nightwatch": "^3.7.0"
+  }
+}
